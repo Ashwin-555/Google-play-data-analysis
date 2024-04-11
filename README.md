@@ -1,2 +1,2 @@
 # Google-play-data-analysis
-This project is a brief data analysis of Google play store that givesyou the insights to take actions and improve the application further in different categories along with deep visualization about the data
+This project is a brief data analysis of Google play store that gives you the insights to take actions and improve the application further in different categories along with deep visualization about the play store data.The data tells us about reviews,categories and reviews about the applications in google play store.Working with the play store data gives you a clarity about customer views and the software improvements need to be performed inorder to bring the applications user friendly.
